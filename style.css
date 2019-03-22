@@ -20,7 +20,7 @@ body {
 -----------------------------------------------------------------------------*/
 .header {
 	height: 175px;
-	background: rgba(167, 169, 181, 0.44);
+	background: rgba(89, 155, 255, 0.24);
 }
 
 
@@ -64,7 +64,7 @@ body {
 	height: 50px;
 	position: relative;
 	bottom: 130px;
-	background: rgba(62, 107, 181, 0.34);
+	background: rgba(89, 155, 255, 0.24);
 }
 
 #name_summery
