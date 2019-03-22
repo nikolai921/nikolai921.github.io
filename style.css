@@ -19,8 +19,8 @@ body {
 /* Header
 -----------------------------------------------------------------------------*/
 .header {
-	height: 125px;
-	background: rgba(181, 176, 180, 0.25);
+	height: 175px;
+	background: rgba(167, 169, 181, 0.44);
 }
 
 
@@ -52,7 +52,7 @@ body {
 	width: 250px;
 	margin-left: -250px;
 	position: relative;
-	bottom: 110px;
+	bottom: 130px;
 	right: 30px;
 
 }
@@ -63,8 +63,8 @@ body {
 .footer {
 	height: 50px;
 	position: relative;
-	bottom: 110px;
-	background: rgba(181, 176, 180, 0.25);
+	bottom: 130px;
+	background: rgba(62, 107, 181, 0.34);
 }
 
 #name_summery
