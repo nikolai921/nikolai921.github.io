@@ -82,7 +82,7 @@ body {
 #image
 {
 	position: relative;
-	bottom: 50px;
+	bottom: 75px;
 }
 
 #inform_user
@@ -90,4 +90,10 @@ body {
 	position: relative;
 	left: 175px;
 	bottom: 180px;
+}
+
+.developer
+{
+	font-weight: 100;
+	color: grey;
 }
