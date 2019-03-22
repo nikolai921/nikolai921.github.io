@@ -20,7 +20,7 @@ body {
 -----------------------------------------------------------------------------*/
 .header {
 	height: 175px;
-	background: rgba(89, 155, 255, 0.24);
+	background: rgba(89, 155, 255, 0.15);
 }
 
 
@@ -52,8 +52,9 @@ body {
 	width: 250px;
 	margin-left: -250px;
 	position: relative;
-	bottom: 130px;
-	right: 30px;
+	bottom: 150px;
+	left: 30px;
+
 
 }
 
@@ -64,16 +65,29 @@ body {
 	height: 50px;
 	position: relative;
 	bottom: 130px;
-	background: rgba(89, 155, 255, 0.24);
+	background: rgba(89, 155, 255, 0.15);
 }
 
 #name_summery
 {
-	text-align: center;
+	text-align: right;
 }
 
 .disqus_thread
 {
 	position: relative;
 	bottom: 500px;
+}
+
+#image
+{
+	position: relative;
+	bottom: 50px;
+}
+
+#inform_user
+{
+	position: relative;
+	left: 175px;
+	bottom: 180px;
 }
